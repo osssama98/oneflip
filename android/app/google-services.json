@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901455494814",
+    "project_id": "oneflip2022-ada96",
+    "storage_bucket": "oneflip2022-ada96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901455494814:android:e938e9e67d1f750a00058f",
+        "android_client_info": {
+          "package_name": "com.example.oneflip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901455494814-e9i431jit4c6pbc8k1vden4obeknb75g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-C4lO_EQvKbCrcVjPoFb9VK-IjzGmoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901455494814-e9i431jit4c6pbc8k1vden4obeknb75g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
